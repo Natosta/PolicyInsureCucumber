@@ -1,0 +1,18 @@
+[0821/105838.026:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0822/105838.382:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0823/105838.808:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0824/105839.192:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0825/105839.624:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0826/105840.030:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0827/085315.052:ERROR:file_io_win.cc(161)] CreateFile C:\Users\ANDERS~1.EGW\AppData\Local\Temp\scoped_dir317192_5851\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0827/085315.060:ERROR:file_io_win.cc(170)] CreateFile C:\Users\ANDERS~1.EGW\AppData\Local\Temp\scoped_dir317192_5851\Crashpad\reports\cf6bf94b-1ea1-47d0-bbc7-4b4b9aad8bdb.dmp: The system cannot find the path specified. (0x3)
+[0827/085315.060:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0827/105840.392:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0827/171342.838:ERROR:file_io_win.cc(161)] CreateFile C:\Users\ANDERS~1.EGW\AppData\Local\Temp\scoped_dir317192_5851\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0827/171342.848:ERROR:file_io_win.cc(170)] CreateFile C:\Users\ANDERS~1.EGW\AppData\Local\Temp\scoped_dir317192_5851\Crashpad\reports\31b4c3a4-afa0-4cdb-b8cd-b978aca87b5e.dmp: The system cannot find the path specified. (0x3)
+[0827/171342.849:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[1018/203507.324:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1019/203507.650:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1020/203508.011:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1231/152517.732:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1231/153806.663:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
